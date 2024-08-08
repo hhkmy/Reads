@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://read.hhk.my.id/'
+languageCode = 'my'
+theme = 'reading'
+title = 'Reads'
+
+[params]
+author = 'Hein Htet Kyaw'
+description = 'A collection of my favorite reads'
